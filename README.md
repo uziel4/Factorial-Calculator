@@ -1,2 +1,1 @@
-# Factorial-Calculator
-Here you will find a simple factorial calculator
+This project is a simple factorial calculator implemented in Python. It provides two methods for calculating the factorial of a non-negative integer: one using an iterative approach and another using recursion. The program prompts the user to enter a number, validates the input, and displays the factorial calculated by both methods. It also handles invalid input gracefully by displaying an error message.
